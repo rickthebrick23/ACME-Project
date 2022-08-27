@@ -6,5 +6,7 @@ public class Foo {
         //made a change for testing github push
         System.out.println("\nHi from GITHUB\n");
         //added for testing 
+        System.out.println("\nHi Ricky Branch, from VS");
+        //T12 Step 3.7
     }
 }
