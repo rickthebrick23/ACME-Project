@@ -8,5 +8,7 @@ public class Foo {
         //added for testing 
         System.out.println("\nHi Ricky Branch, from VS");
         //T12 Step 3.7
+        System.out.println("\nHellow from person2!!!");
+        //added from person2 after connecting to main project
     }
 }
